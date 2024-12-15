@@ -4,7 +4,7 @@ import Hero from "./component/hero";
 import Product from "./component/product";
 import Product2 from "./component/product2";
 import Product3 from "./component/product3";
-import Product4 from "./component/product4";
+
 import Footer from "./component/footer";
 
 export default function Home() {
@@ -15,7 +15,7 @@ export default function Home() {
       <Product/>
       <Product2/>
       <Product3/>
-      <Product4/>
+    
       <Footer/>
     </div>
   );

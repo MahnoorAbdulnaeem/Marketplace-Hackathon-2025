@@ -1,52 +1,118 @@
-import Image from 'next/image'
-import React from 'react'
+
+
+
+
+//
+// import Image from 'next/image';
+// import React from 'react';
+
+// const Hero = () => {
+//   return (
+//     <div className="relative w-full h-screen">
+//       {/* Background Image */}
+//       <div className="absolute inset-0 w-full h-full">
+//         <Image
+//           alt="Rocket"
+//           src={require('../../../public/21.jpg')} // Your image path
+//           layout="fill" // Full screen image
+//           objectFit="cover" // Image will cover full container
+//           className="z-0"
+//         />
+//       </div>
+
+//       {/* Content Box */}
+//       <div className="relative z-10 flex items-center justify-center w-full h-full text-center px-5 py-24 ml-80">
+//         <div className="bg-[#FFF3E3] p-8 sm:p-10 md:p-12 lg:p-16 xl:p-20 rounded-lg shadow-lg max-w-2xl mx-auto">
+//           {/* Small Description Text */}
+//           <p className="text-lg sm:text-xl -ml-[450px] text-gray-700 mb-4 ">
+//             New Arrival
+//           </p>
+
+//           {/* Main Heading */}
+
+//           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-[#B88E2F] mb-4 ">
+//             <span className="block -ml-64">Discover Our</span>
+//             <span className="block -ml-56">New Collection</span>
+//           </h1>
+
+//           {/* Secondary Heading */}
+//           <h2 className="text-lg sm:text-xl md:text-2xl font-medium text-gray-900 mb-6 -ml-8 leading-tight line-clamp-2">
+//             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.
+//           </h2>
+
+
+
+
+
+
+
+
+
+//           <button className="inline-flex justify-center text-white
+//            items-center py-5 px-14 border-2 border-[#B88E2F] -ml-96 text-xs sm:text-sm md:text-base font-medium bg-[#B88E2F] hover:bg-[#b89a2f] transition ease-in-out">
+//             BUY Now
+//           </button>
+
+
+//         </div>
+//       </div>
+//     </div>
+//   );
+// };
+
+// export default Hero;
+
+
+
+
+
+import Image from 'next/image';
+import React from 'react';
+import Link from 'next/link'; // Import Link for navigation
 
 const Hero = () => {
-    return (
+  return (
+    <div className="relative w-full h-screen">
+      {/* Background Image */}
+      <div className="absolute inset-0 w-full h-full">
+        <Image
+          alt="Rocket"
+          src={require('../../../public/21.jpg')} // Your image path
+          layout="fill" // Full screen image
+          objectFit="cover" // Image will cover full container
+          className="z-0"
+        />
+      </div>
 
-      <div>
-      <section className="text-gray-600 body-font bg-[#FBEBB5]">
-        <div className="container mx-auto flex flex-col md:flex-row items-center px-5 py-24">
+      {/* Content Box */}
+      <div className="relative z-10 flex items-center justify-center w-full h-full text-center px-5 py-24 ml-80">
+        <div className="bg-[#FFF3E3] p-8 sm:p-10 md:p-12 lg:p-16 xl:p-20 rounded-lg shadow-lg max-w-2xl mx-auto">
+          {/* Small Description Text */}
+          <p className="text-lg sm:text-xl -ml-[450px] text-gray-700 mb-4 ">
+            New Arrival
+          </p>
 
-         
-          <div className="lg:flex-grow md:w-1/2 flex flex-col items-center text-center md:text-left">
-         
-            <h1 className="text-3xl ml-32 sm:text-4xl md:text-5xl font-medium text-gray-900 mb-4 md:mb-8">
-              Rocket Single
-            </h1>
-            <h2 className="text-3xl sm:text-4xl md:text-5xl font-medium text-gray-900 mb-6">
-              Seater
-            </h2>
+          {/* Main Heading */}
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-[#B88E2F] mb-4 ">
+            <span className="block -ml-64">Discover Our</span>
+            <span className="block -ml-56">New Collection</span>
+          </h1>
 
-           
-            <div className="flex flex-col justify-center items-center">
-              <button className="inline-flex text-[#000000] border-b-2 border-black pb-1 text-xl sm:text-2xl md:text-3xl mb-4">
-                Shop Now
-              </button>
-            </div>
-          </div>
+          {/* Secondary Heading */}
+          <h2 className="text-lg sm:text-xl  text-justify md:text-2xl font-medium text-gray-900 mb-6 -ml-8 leading-tight line-clamp-2">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.
+          </h2>
 
-        
-          <div className="lg:w-1/2 w-full flex justify-center">
-            <div className="relative w-full h-[400px] sm:h-[500px] md:h-[700px]">
-              <Image
-                alt="Rocket"
-                layout="fill"
-                objectFit="cover"
-                src={require('../../../public/1.jpg')}
-                className="rounded-md"
-              />
-            </div>
-          </div>
-
+          {/* Button wrapped in Link for Navigation */}
+          <Link  href="/Cart">
+            <button className="inline-flex justify-center text-white items-center py-5 px-14 border-2 border-[#B88E2F] -ml-96 text-xs sm:text-sm md:text-base font-medium bg-[#B88E2F] hover:bg-[#b89a2f] transition ease-in-out">
+              BUY Now
+            </button>
+          </Link>
         </div>
-      </section>
+      </div>
     </div>
-        
-    );
-}
+  );
+};
 
-
-
-
-export default Hero
+export default Hero;
