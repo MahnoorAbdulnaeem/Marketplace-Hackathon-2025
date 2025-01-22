@@ -61,7 +61,7 @@ To build a platform where users can explore, customize, and purchase furniture e
 - **Applied state management techniques using useState** and useContext to handle dynamic data across components.
 - **Ensured responsive design using Tailwind CSS**, making the UI mobile-friendly and optimized for desktop and mobile devices.
 - **Conducted testing and validation** to ensure all components rendered dynamic data correctly and interacted seamlessly with the backend.
--   [ Day 4 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Technical-Hackathon-2025/blob/main/day-4/README.md)
+-   [ Day 4 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-4/README.md)
 
 ###   **Day 5: Testing, Error Handling, and Backend Integration Refinement**
 - **Performed comprehensive functional testing** to validate core features like product listing, cart operations, and search functionality.
