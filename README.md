@@ -35,7 +35,7 @@ To build a platform where users can explore, customize, and purchase furniture e
   - **Products**: Details like name, price, size, color, and stock.
   - **Orders**: Manage statuses and payment tracking.
   - **Delivery Zones**: Serviceable areas and logistics optimization.
-  -  [ Day 1 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Technical-Hackathon-2025/blob/main/day-1/README.md)
+  -  [ Day 1 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-1/README.md)
 
 
 ### **Day 2: System Design and Integration**
