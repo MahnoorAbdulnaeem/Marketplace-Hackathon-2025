@@ -43,7 +43,7 @@ Here are the main API routes defined for Day 2:
 
 For Day 2, I created a detailed system architecture diagram to represent how different components connect and communicate:
 
-![Day 2 System Design Diagram](https://github.com/MahnoorAbdulnaeem/Marketplace-Technical-Hackathon-2025/blob/main/day-2/5.png)
+![Day 2 System Design Diagram](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-2/5.png)
 
 
 
