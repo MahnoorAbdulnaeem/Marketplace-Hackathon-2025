@@ -105,7 +105,7 @@ To build a platform where users can explore, customize, and purchase furniture e
 
 - **Day-1  Diagram:** [View Diagram](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-1/4.jpg)
 -  **Day-2 Diagram:** [View Diagram](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-2/5.png)
--    **Day-3 Diagram:** [View Diagram](https://github.com/MahnoorAbdulnaeem/Marketplace-Technical-Hackathon-2025/blob/main/day-3/2.jpg)
+-    **Day-3 Diagram:** [View Diagram](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-3/2.jpg)
  
 
 
