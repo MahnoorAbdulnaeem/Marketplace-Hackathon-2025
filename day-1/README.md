@@ -45,7 +45,7 @@ Check out the handwritten notes for a visual representation:
 
 ## Handwritten Notes:
 ### **Page 1:**
-![Page 1](https://github.com/MahnoorAbdulnaeem/Marketplace-Technical-Hackathon-2025/blob/main/day-1/1.jpg)
+![Page 1](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-1/1.jpg)
 
 ### **Page 2:**
 ![Page 2](https://github.com/MahnoorAbdulnaeem/Marketplace-Technical-Hackathon-2025/blob/main/day-1/2.jpg)
