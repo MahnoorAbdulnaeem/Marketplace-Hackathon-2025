@@ -85,6 +85,17 @@ To build a platform where users can explore, customize, and purchase furniture e
 - **Created comprehensive documentation for deployment** steps, environment configuration, and testing results to ensure smooth transition to production.
 -  [ Day 6 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-6/README.md)
 
+### **Day 7: Live Deployment and Post-Launch Practices**
+- **Successfully deployed the marketplace** to production, making it live and accessible to users.
+- **Monitored platform performance** post-launch using Google Analytics and Sentry, identifying and addressing any issues.
+- **Applied final performance optimizations** to ensure fast load times and smooth user interactions.
+- **Ran security audits to verify encryption** and secure handling of user data, ensuring HTTPS for secure transactions.
+- **Implemented user feedback mechanisms** to gather insights from users for future platform improvements.
+- **Started marketing efforts and branding** strategies to increase user engagement and attract potential investors.
+- **Reviewed and updated documentation** with live deployment processes, post-launch monitoring steps, and security best practices.
+- **Prepared a post-launch checklist** to maintain and optimize platform performance over time.
+-  [ Day 7 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-7/README.md)
+
 
 
 
