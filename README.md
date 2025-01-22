@@ -53,7 +53,7 @@ To build a platform where users can explore, customize, and purchase furniture e
 - **Migrated product**, order, and customer data into Sanity CMS, validating and adjusting schemas for compatibility.
 - **Ensured robust testing** using Postman and implemented centralized error handling for a seamless user experience.
 - Used the **Self-Validation** Checklist to verify the outcomes of Day 1 (business goals and schemas) and Day 2 (technical architecture and workflows).
--  [ Day 3 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Technical-Hackathon-2025/blob/main/day-3/README.md)
+-  [ Day 3 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-3/README.md)
 
 ### **Day 4: Building Dynamic Frontend Components for Your Marketplace**
 - **Developed dynamic frontend components** in Next.js to display marketplace data fetched from Sanity CMS and APIs.
