@@ -45,7 +45,7 @@ To build a platform where users can explore, customize, and purchase furniture e
   - **POST /orders**: Create new orders.
   - **GET /shipment**: Track delivery status.
 - Integrated third-party APIs for secure payments and shipment tracking.
--  [ Day 2 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Technical-Hackathon-2025/blob/main/day-2/README.md)
+-  [ Day 2 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-2/README.md)
 
 
 ###  **Day 3: Slef-Validation API Integration and Data Migration**
