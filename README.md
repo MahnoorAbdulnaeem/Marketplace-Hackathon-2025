@@ -83,7 +83,7 @@ To build a platform where users can explore, customize, and purchase furniture e
 - **Configured environment variables securely** for API keys and sensitive data, ensuring secure communication in the staging environment.
 - **Ensured deployment readiness by testing deployment** pipelines and ensuring the staging environment is secure and optimized.
 - **Created comprehensive documentation for deployment** steps, environment configuration, and testing results to ensure smooth transition to production.
--  [ Day 6 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Technical-Hackathon-2025/blob/main/day-6/README.md)
+-  [ Day 6 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-6/README.md)
 
 
 
