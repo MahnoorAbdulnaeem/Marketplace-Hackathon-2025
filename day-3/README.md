@@ -52,7 +52,7 @@ Day 3 of the **Marketplace Builder Hackathon** focused on implementing API integ
   # Visual Data Structure
   For Day 3, a system architecture diagram was created to illustrate how components interact:
 
-  ![Day 3 System Design Diagram](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-3/2.jpg)
+  ![Day 3 System Design Diagram](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-3/1.jpg)
 
 # Summary
 - On Day 3, I successfully:
