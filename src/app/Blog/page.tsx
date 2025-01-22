@@ -2,7 +2,7 @@
 
 "use client";
 import React from 'react';
-import { FiSearch } from 'react-icons/fi'; // Import search icon
+import { FiSearch } from 'react-icons/fi';
 import Hero3 from '../component/hero3';
 import Foooter2 from '../component/foooter2';
 import { FaCalendar } from "react-icons/fa";

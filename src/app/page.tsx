@@ -6,6 +6,7 @@ import Product2 from "./component/product2";
 import Product3 from "./component/product3";
 
 import Footer from "./component/footer";
+import ProductCards from "./products/page";
 
 export default function Home() {
   return (
@@ -15,7 +16,8 @@ export default function Home() {
       <Product/>
       <Product2/>
       <Product3/>
-    
+    <ProductCards/>
+     
       <Footer/>
     </div>
   );
