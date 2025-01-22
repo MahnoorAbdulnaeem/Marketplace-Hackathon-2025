@@ -71,7 +71,7 @@ To build a platform where users can explore, customize, and purchase furniture e
 - **Applied security testing** measures such as input validation, SQL injection protection, and HTTPS enforcement to secure API communication and prevent vulnerabilities.
 - **Simulated real-world user interactions** during User Acceptance Testing (UAT) to verify smooth workflows for browsing, searching, and checkout.
 - **Created a comprehensive testing report** documenting test cases, results, and resolutions, including CSV-based reporting for transparency and clarity.
--    [ Day 5 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Technical-Hackathon-2025/blob/main/day-5/README.md)
+-    [ Day 5 ](https://github.com/MahnoorAbdulnaeem/Marketplace-Hackathon-2025/blob/main/day-5/README.md)
 
 
  ### **Day 6: Deployment Preparation and Staging Environment Setup**
